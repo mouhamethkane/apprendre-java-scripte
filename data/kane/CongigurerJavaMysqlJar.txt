@@ -1,0 +1,8 @@
+Le lien pour télécharger le driver mysql_connector_jar : https://static.javatpoint.com/src/jdbc/mysql-connector.jar
+
+Vous avez deux possibilités pour charger ce fichier jar:
+1) Coller le fichier mysqlconnector.jar dans votre dossier d'installation de Java: jre/lib/ext (collez-le ICI)
+
+2) Ou bien configurer la classpath:
+Aller aux variables d'environnement, cliqueer sur classpath et cliquer l'onglet nouveau. 
+Collez le chemin vers votre fichier mysqlconnector.jar  
